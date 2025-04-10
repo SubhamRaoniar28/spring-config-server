@@ -1,0 +1,3 @@
+client:
+  two:
+    message: "Hello from Client Two DEV profile"
